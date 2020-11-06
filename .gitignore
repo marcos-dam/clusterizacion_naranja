@@ -17,6 +17,7 @@ __pycache__/*
 *.parquet
 .csv
 .parquet
+.xlsx
 
 # Project files
 .ropeproject
