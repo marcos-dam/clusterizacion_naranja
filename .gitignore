@@ -15,9 +15,10 @@ __pycache__/*
 .DS_Store
 *.csv
 *.parquet
-.xlsx
-.pdf
-.html
+*.xlsx
+*.pdf
+*.html
+*.xlsx#
 
 # Project files
 .ropeproject
